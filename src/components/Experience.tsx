@@ -56,7 +56,7 @@ const Experience = () => {
             Where I've Worked
           </motion.p>
         </SectionReveal>
-
+        
         <div className="max-w-3xl mx-auto" ref={containerRef}>
           <div className="relative">
             {/* Timeline line with gradient */}
